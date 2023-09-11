@@ -1,6 +1,6 @@
 # flutter_bloc_document
 
-A new Flutter project.
+Developed an flutter application step by step from Bloc documentation for deep learning of bloc and bloc provider in real app
 
 ## Getting Started
 
